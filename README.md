@@ -14,4 +14,15 @@
             <li><strong>Security:</strong> Basic authentication for users with encrypted password storage.</li>
             <li><strong>Reporting:</strong> Generation of financial reports based on transaction history.</li>
         </ul>
+</section>
+
+<section>
+        <h2>Status</h2>
+        <p>🚧 <strong>Work in Progress</strong></p>
+        <p>The project is currently being coded and new features will be added incrementally.</p>
     </section>
+
+<section>
+    <h2>Stay Tuned!</h2>
+    <p>More updates will be available soon. Keep an eye on this repository for progress.</p>
+</section>
