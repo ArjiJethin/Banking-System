@@ -18,6 +18,7 @@
     <p>🚧 <strong>Work in Progress</strong></p>
     <p>The project is currently being coded and new features will be added incrementally.</p>
 </section>
+
 <section>
     <h2>🔔 Stay Tuned!</h2>
     <p>More updates will be available soon. Keep an eye on this repository for progress. 😊</p>
